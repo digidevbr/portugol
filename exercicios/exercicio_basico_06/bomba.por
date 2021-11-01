@@ -1,19 +1,21 @@
 
-/* Escreva um programa que exiba no console o seu nome!
+/* 
+ * Faça um programa usando laços de repetição, que exiba um contador regressivo com 60 segundos.
+ * Após zerar o contador, exiba uma mensagem com a palavra "BOOOOOM".
  */
-programa {
-	funcao inicio() {
-		
+ 
+programa{
+	funcao inicio (){
+	
 	}
 }
-
 
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 833; 
+ * @POSICAO-CURSOR = 911; 
  * @DOBRAMENTO-CODIGO = [1];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;

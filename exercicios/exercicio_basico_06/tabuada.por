@@ -1,7 +1,14 @@
 
-/* Escreva um programa que exiba no console a palavra Olá Mundo!
+/* Você já fez uma tabuada chamando 10X uma função.
+¨* Agora, com poucas linhas você pode criar uma usando laços de repetição.
+ * Crie uma tabuada usando laços de repetição. Receba um número inteiro para o usuário informar qual a tabuada que gostaria de saber.
  */
  
+programa {
+	funcao inicio (){
+	
+	}
+}
 
 /* $$$ Portugol Studio $$$ 
  * 

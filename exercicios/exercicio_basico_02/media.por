@@ -1,18 +1,10 @@
 
-/* 
- * Escreva um programa que pergunte qual o seu nome.
- * Em seguida, receba este valor e exiba como resultado a seguinte frase:
- * O nome digitado foi: [Nome Digitado]
+/* Escreva um programa que receba 3 números, calcule a média e exiba para o usuário.
  */
  
-programa
-{
-	funcao inicio ()
-	{
-		cadeia nome
-
-		escreva("Digite seu nome: ")
-		leia(nome)
+programa {
+	funcao inicio (){
+	
 	}
 }
 
@@ -21,7 +13,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 911; 
+ * @POSICAO-CURSOR = 833; 
  * @DOBRAMENTO-CODIGO = [1];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
